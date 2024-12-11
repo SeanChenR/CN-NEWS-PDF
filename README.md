@@ -4,11 +4,6 @@
     <img src="https://hackmd.io/_uploads/rkHVRqanC.png" width="200" alt="TWCC">
 </div>
 
-## 下載所有程式
-```
-git clone git@tej-gitlab.tejwin.com:YJB/CN-NEWS-PDF.git
-```
-
 ## 安裝套件
 ```
 pip install -r requirements.txt
